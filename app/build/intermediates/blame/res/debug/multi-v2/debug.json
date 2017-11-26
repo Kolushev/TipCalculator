@@ -1,0 +1,132 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\User\\AndroidStudioProjects\\TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\AndroidStudioProjects\\TipCalculator\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4,6,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "92,151,255,207",
+                        "endColumns": "57,55,45,46",
+                        "endOffsets": "145,202,296,249"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,113,169,215",
+                        "endColumns": "57,55,45,46",
+                        "endOffsets": "108,164,210,257"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\AndroidStudioProjects\\TipCalculator\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,7,6,5,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "111,58,251,202,154,311,348",
+                        "endColumns": "41,51,58,48,47,35,39",
+                        "endOffsets": "148,105,305,246,197,342,383"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "262,304,356,415,464,512,548",
+                        "endColumns": "41,51,58,48,47,35,39",
+                        "endOffsets": "299,351,410,459,507,543,583"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\AndroidStudioProjects\\TipCalculator\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "13,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "588,879",
+                        "endLines": "19,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "874,1034"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\User\\AndroidStudioProjects\\TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\AndroidStudioProjects\\TipCalculator\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\User\\AndroidStudioProjects\\TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\AndroidStudioProjects\\TipCalculator\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\User\\AndroidStudioProjects\\TipCalculator\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\AndroidStudioProjects\\TipCalculator\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}
